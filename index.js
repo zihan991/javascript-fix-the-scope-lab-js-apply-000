@@ -1,4 +1,5 @@
 var animal = 'dog';
+const two = 2;
 
 function myAnimal() {
   // You should not need to modify this function
